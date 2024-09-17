@@ -5,9 +5,9 @@ This is **Najah's Blog**, a React-based platform created as part of my internshi
 
 ## Screenshots
 
-1. **Home Page**: ![Home Page](src/assets/screenshot1.png)
-2. **Blog List**: ![Blog List](src/assets/screenshot2.png)
-3. **About Page**: ![About Page](src/assets/screenshot3.png)
+1. **Home Page**: ![Home Page](src/assets/Screenshot1.png)
+2. **Blog List**: ![Blog List](src/assets/Screenshot2.png)
+3. **About Page**: ![About Page](src/assets/Screenshot3.png)
 
 ## Features
 
